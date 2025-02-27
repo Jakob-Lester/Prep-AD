@@ -18,6 +18,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
+
+
+![Screenshot 2025-02-27 144532](https://github.com/user-attachments/assets/d8b16f74-7eb1-4184-8924-da7ffe2da760)
+
+
+
 <p>Pending Prior Steps</p>
 
 ![Step3](https://github.com/user-attachments/assets/6a44cc6a-c1b0-479f-aee7-987665ce4707)
@@ -27,3 +33,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 ![Step7](https://github.com/user-attachments/assets/118c6d05-568e-459d-afb5-4f5d5cc6d133)
 ![Step8](https://github.com/user-attachments/assets/4139a882-ef5c-4801-b969-c0201e2f9274)
 ![Step9](https://github.com/user-attachments/assets/c59858de-1e61-4abc-9f88-7fa5e1e2f3c6)
+![Screenshot 2025-02-27 144403](https://github.com/user-attachments/assets/3fd1dffc-61e4-4aa9-aaa9-0405b2bdaed9)
