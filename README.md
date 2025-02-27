@@ -3,11 +3,25 @@
 </p>
 
 <h1>Preparing Active Directory Infrastructure in Azure</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+
+This project involves setting up a cloud-based Windows domain environment in Microsoft Azure, simulating enterprise-level IT administration.
+
+  1. Infrastructure Setup
+      - Create an Azure Resource Group, Virtual Network, and Subnet to host the environment.
+      - Deploy a Windows Server 2022 VM (DC-1) as the Domain Controller and configure its static private IP.
+      - Deploy a Windows 10 VM (Client-1) and connect it to the same network as DC-1.
+
+  2. Networking & Configuration
+      - Assign DC-1’s private IP as Client-1’s DNS server to enable domain communication.
+      - Test connectivity between Client-1 and DC-1 via ping and PowerShell commands.
+
+This setup provides hands-on experience with Active Directory, DNS, networking, and cloud administration in an Azure environment..<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
+- Domain Name System
+- PowerShell
 
 
 <h2>Operating Systems Used </h2>
