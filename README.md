@@ -38,7 +38,7 @@ This setup provides hands-on experience with Active Directory, DNS, networking, 
 
 
 
-<p>Pending Prior Steps</p>
+Pending Prior Steps
 
 ![Step3](https://github.com/user-attachments/assets/6a44cc6a-c1b0-479f-aee7-987665ce4707)
 ![Step4](https://github.com/user-attachments/assets/18ea8066-ac12-4437-9148-09b0ea8f1209)
